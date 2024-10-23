@@ -5,6 +5,9 @@ Usage:
 python probe_animation.py /path/to/xp [/path/to/other/xp ...]
 Where `/path/to/xp` is a folder containing `probe/probe.0.jsonl`
 """
+""
+ok
+""
 
 import math
 from pathlib import Path
